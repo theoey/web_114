@@ -1,4 +1,3 @@
-"use strict";
 
 let numChildren = 3;
 let partnerName = "Sam";

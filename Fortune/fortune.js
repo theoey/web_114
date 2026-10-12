@@ -1,8 +1,8 @@
 
 let numChildren = 3;
 let partnerName = "Sam";
-let location = "California";
+let futureLocation = "California";
 let jobTitle = "CEO";
 let salary = "250k";
 
-console.log("You will be", jobTitle, "in", location, "and married to", partnerName, "with ", numChildren,"kids with a salary of", salary);
+console.log("You will be", jobTitle, "in", futureLocation, "and married to", partnerName, "with ", numChildren,"kids with a salary of", salary);
